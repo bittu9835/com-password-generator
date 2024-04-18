@@ -1,0 +1,19 @@
+{
+  "name": "com-password-generator",
+  "version": "1.0.0",
+  "description": "Generate your passwords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bittu9835/com-password-generator.git"
+  },
+  "author": "dev_bittu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bittu9835/com-password-generator/issues"
+  },
+  "homepage": "https://github.com/bittu9835/com-password-generator#readme"
+}
